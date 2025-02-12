@@ -1,0 +1,1 @@
+# Déclaration et insersion dans une liste chaînées

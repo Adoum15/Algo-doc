@@ -1,0 +1,1 @@
+# Leçon 8 : Suppression d'un élément

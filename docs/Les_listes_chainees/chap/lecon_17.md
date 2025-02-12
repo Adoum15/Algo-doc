@@ -1,0 +1,1 @@
+# Suppression dans une liste chaînées

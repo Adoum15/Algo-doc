@@ -1,0 +1,52 @@
+site_name: Algorithmique
+
+site_url: http://127.0.0.1:8000/
+
+theme:
+  name: 'material'
+  logo: assets/algo1.png
+
+nav: 
+  - 🏠 Accueil: index.md
+  - 📜 Sommaire: introduction.md
+  - 🚀 "Into Algo": 
+      - 📂 "Sommaire": Introduction_Algorithmique/Introduction.md
+      - 📌 "Qu'est-ce que l'algorithmique": Introduction_Algorithmique/chap/lecon_1.md
+      - 🔍 "Exemple d'un premier Algorithme": Introduction_Algorithmique/chap/lecon_2.md
+      - 🧠 "Rappel sur les fonctions": Introduction_Algorithmique/chap/lecon_3.md
+      - ⏳ "La notion de grand O": Introduction_Algorithmique/chap/lecon_4.md
+      - 🏗️ "Presentation des structures de données": Introduction_Algorithmique/chap/lecon_5.md
+  - 📊 "Les Tableaux":
+      - 📂 "Sommaire": Les_Tableaux/introduction.md
+      - 🔢 Les_Tableaux/chap/lecon_6.md
+      - 📏 Les_Tableaux/chap/lecon_7.md
+      - 🔄 Les_Tableaux/chap/lecon_8.md
+      - 📈 Les_Tableaux/chap/lecon_9.md
+      - 🛠️ Les_Tableaux/chap/lecon_10.md
+  - 🎲 "Les Tris simples":
+      - 📂 "Sommaire": Les_Trix_Simples/introduction.md
+      - 🔄 Les_Trix_Simples/chap/lecon_11.md
+      - 📊 Les_Trix_Simples/chap/lecon_12.md
+      - 📉 Les_Trix_Simples/chap/lecon_13.md
+      - ⚡ Les_Trix_Simples/chap/lecon_14.md
+  - 🔗 "Les listes chaînées":
+      - 📂 "Sommaire": Les_listes_chainees/introduction.md
+      - 🔗 Les_listes_chainees/chap/lecon_15.md
+      - 🏗️ Les_listes_chainees/chap/lecon_16.md
+      - 📌 Les_listes_chainees/chap/lecon_17.md
+      - 🔄 Les_listes_chainees/chap/lecon_18.md
+      - 📈 Les_listes_chainees/chap/lecon_19.md
+      - ⚙️ Les_listes_chainees/chap/lecon_20.md
+  - 🔁 "La Récursion":
+      - 📂 "Sommaire": La_Récursion/introduction.md
+      - 🔁 La_Récursion/chap/lecon_21.md
+      - 🔄 La_Récursion/chap/lecon_22.md
+      - 🧠 La_Récursion/chap/lecon_23.md
+      - 🏆 La_Récursion/chap/lecon_24.md
+
+  
+
+extra_css:
+  - style/style.css
+
+
